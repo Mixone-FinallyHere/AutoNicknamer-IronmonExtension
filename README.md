@@ -1,5 +1,5 @@
 # Auto Nicknamer Gen 3 Ironmon-Tracker Extension by Mixone
-This extension allows you set nicknames to be autoassigned from a list of them in nicknames.txt
+This extension allows you to set nicknames to be auto-assigned from a list of them in nicknames.txt
 
 ![image](https://raw.githubusercontent.com/Mixone-FinallyHere/AutoNicknamer-IronmonExtension/main/Functionality.gif)
 
