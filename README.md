@@ -27,6 +27,7 @@ This extension allows you to set nicknames to be auto-assigned from a list of th
 - While enabled, this extension automatically nicknames caught Pokemon based on the list of names supplied in `nicknames.txt`.
 - It does not currently nickname the starter Pokemon.
 - If you manually give the Pokemon a nickname it will keep that instead of giving it a new one.
+- **IMPORTANT:** Special characters are NOT supported, please only use english alphabet characters (i.e. no special German, French, Spanish, etc... characters) and numbers!
 
 ## Custom Extensions Wiki:
 https://github.com/besteon/Ironmon-Tracker/wiki/Tracker-Add-ons#custom-code-extensions
