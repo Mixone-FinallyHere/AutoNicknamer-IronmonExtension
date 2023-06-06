@@ -31,7 +31,7 @@ This extension allows you to set nicknames to be auto-assigned from a list of th
 - **IMPORTANT:** Special characters are NOT supported, please only use english alphabet characters (i.e. no special German, French, Spanish, etc... characters) and numbers!
 
 ## Planned Future Releases
-Tracked in the [TODO list] (https://github.com/Mixone-FinallyHere/AutoNicknamer-IronmonExtension/blob/main/TODO.md) .
+Tracked in the [TODO list](https://github.com/Mixone-FinallyHere/AutoNicknamer-IronmonExtension/blob/main/TODO.md) .
 
 ## Custom Extensions Wiki:
 https://github.com/besteon/Ironmon-Tracker/wiki/Tracker-Add-ons#custom-code-extensions
