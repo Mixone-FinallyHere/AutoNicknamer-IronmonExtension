@@ -4,7 +4,7 @@ local function AutoNicknamerExtension()
 	-- Define descriptive attributes of the custom extension that are displayed on the Tracker settings
 	self.name = "Auto Nicknamer"
 	self.author = "Mixone"
-	self.description = "This extension allows you set nicknames to be autoassigned from a list of them in nicknames.txt"
+	self.description = "This extension allows you to set nicknames to be auto-assigned from a list of them in nicknames.txt"
 	self.version = "1.0"
 	self.url = "https://github.com/Mixone-FinallyHere/AutoNicknamer-IronmonExtension" -- Remove or set to nil if no host website available for this extension
 
